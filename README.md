@@ -5,3 +5,8 @@
 ## About Me
 - Name: Phatharaphan Ratmarong
 - Major: Computer Science
+
+## My Learning Goals
+- Learn C programming
+- Improve fast typing
+- Build a personal website
