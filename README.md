@@ -14,3 +14,8 @@
 ## Technology Interests
 - Artificial Intelligence
 - Websites Development
+
+## Skills
+- Problem solving
+- C basics
+- Teamwork
