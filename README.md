@@ -10,3 +10,7 @@
 - Learn C programming
 - Improve fast typing
 - Build a personal website
+
+## Technology Interests
+- Artificial Intelligence
+- Websites Development
